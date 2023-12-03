@@ -1,4 +1,4 @@
-<img width="1250" alt="cover-github (1)" src="https://github.com/EwerllonCBN/EwerllonCBN/assets/73199791/09d5fa22-ef5c-4070-846a-754d89be9412">
+<img width="1250" alt="cover-github (1)" src="https://github.com/EwerllonCBN/EwerllonCBN/assets/73199791/1e2d867a-cbc4-47e2-8965-fd7889ee5553">
 
 ### Eae 👋🏾, Ewerllon aqui
 
