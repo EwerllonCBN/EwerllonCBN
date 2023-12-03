@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+<img width="1250" height="400" alt="cover-github (1)" src="https://github.com/EwerllonCBN/EwerllonCBN/assets/73199791/22c65d7c-caeb-4b06-947e-f00f5b50059d">
+
 <!--
 **EwerllonCBN/EwerllonCBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
