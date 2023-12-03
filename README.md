@@ -2,7 +2,7 @@
 
 
 
-<img width="1250" alt="cover-github (1)" src="https://github.com/EwerllonCBN/EwerllonCBN/assets/73199791/aaa85ac6-08b1-49ea-93d2-66e80c0b214b">
+<img width="1250" alt="cover-github (1)" src="https://github.com/EwerllonCBN/EwerllonCBN/assets/73199791/09d5fa22-ef5c-4070-846a-754d89be9412">
 
 <!--
 **EwerllonCBN/EwerllonCBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
