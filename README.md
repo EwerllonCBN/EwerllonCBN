@@ -29,8 +29,8 @@ De Engenharia de Teste e Automação Industrial para o universo de Desenvolvimen
 6DAF52 - texto
 4AFF00 - icone
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EwerllonCBN&show_icons=true&theme=gotham&title_color=3A7223&text_color=47C612&icon_color=6DAF52)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EwerllonCBN&layout=compact&langs_count=5&theme=gotham&title_color=3A7223&text_color=47C612)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EwerllonCBN&show_icons=true&theme=gotham&border_color=4AFF00&title_color=3A7223&text_color=47C612&icon_color=6DAF52)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EwerllonCBN&layout=compact&langs_count=5&theme=gotham&border_color=4AFF00&title_color=3A7223&text_color=47C612)
 
 
 **🚀 Sempre tentando evoluir**
