@@ -27,7 +27,7 @@ De Engenharia de Teste e Automação Industrial para o universo de Desenvolvimen
   <img height="40" src="https://i.imgur.com/VgEJgFS.png">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EwerllonCBN&show_icons=true&theme=gotham&border_color=4AFF00&title_color=3A7223&text_color=47C612&icon_color=6DAF52)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EwerllonCBN&layout=compact&langs_count=5&theme=gotham&border_color=4AFF00&title_color=3A7223&text_color=47C612)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EwerllonCBN&layout=compact&langs_count=7&theme=gotham&border_color=4AFF00&title_color=3A7223&text_color=47C612)
 
 
 **🚀 Sempre tentando evoluir**
