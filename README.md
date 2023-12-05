@@ -8,10 +8,9 @@
 
 De Engenharia de Testes e Automação Industrial para o universo de Desenvolvimento de Software, graduado em Engenharia de Computação e apaixonado por tecnologia atuando na área desde 2021. Atualmente, concentro meus esforços principalmente em Mobile e Web. Contudo, mantenho-me sempre aberto a novos desafios e oportunidades de aprendizado nesse ecossistema fascinante que continuamente me cativa.
 
-- 💻 Desenvolvedor de Software em busca de novos desafios.
+- 💻 Desenvolvedor de Software em busca de crescimento.
 - 🎓 Bacharel em Engenharia de Computação.
 - 💬 Me pergunte sobre JS, TS, React Native, ReactJS, NextJS.
-- 📫 Como você pode me contactar: [linkedIn](https://www.linkedin.com/in/ewerllon-cristian-650986150/)
 
 * * *
 
@@ -81,6 +80,16 @@ De Engenharia de Testes e Automação Industrial para o universo de Desenvolvime
 
 * * *
 
-### 🚀 Sempre tentando evoluir
+### 📬 Como você pode me contactar? 
+
+<div align="center">
+  <div>
+    <a href="https://www.linkedin.com/in/ewerllon-cristian-650986150/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:ewerllon_cristian@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://api.whatsapp.com/send?phone=55993568531"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  </div>
+</div>
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
+### 🚀 Sempre tentando evoluir
