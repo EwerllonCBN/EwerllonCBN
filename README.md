@@ -4,7 +4,7 @@
 
 ***
 
-##  👨🏽‍💻 Sobre mim:
+###  👨🏽‍💻 Sobre mim:
 
 De Engenharia de Testes e Automação Industrial para o universo de Desenvolvimento de Software, graduado em Engenharia de Computação e apaixonado por tecnologia atuando na área desde 2021. Atualmente, concentro meus esforços principalmente em Mobile e Web. Contudo, mantenho-me sempre aberto a novos desafios e oportunidades de aprendizado nesse ecossistema fascinante que continuamente me cativa.
 
