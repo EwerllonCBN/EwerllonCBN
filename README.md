@@ -1,6 +1,6 @@
 <img width="1250" alt="cover-github (1)" src="https://github.com/EwerllonCBN/EwerllonCBN/assets/73199791/1e2d867a-cbc4-47e2-8965-fd7889ee5553">
 
-## Olá 👋🏾, eu sou Ewerllon.
+### Olá 👋🏾, eu sou Ewerllon.
 
 ***
 
@@ -15,7 +15,7 @@ De Engenharia de Testes e Automação Industrial para o universo de Desenvolvime
 
 * * *
 
-## 🔥 Skills:
+### 🔥 Skills:
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -38,7 +38,7 @@ De Engenharia de Testes e Automação Industrial para o universo de Desenvolvime
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
-### 👽 Outros conhecimentos:
+#### 👽 Outros conhecimentos:
 
 <div>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
@@ -52,7 +52,7 @@ De Engenharia de Testes e Automação Industrial para o universo de Desenvolvime
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 </div>
   
-### 👾 Aspirações:
+#### 👾 Aspirações:
 <div>
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
