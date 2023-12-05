@@ -64,7 +64,7 @@ De Engenharia de Testes e Automação Industrial para o universo de Desenvolvime
 </div>
     
 * * *
-### 📈 Status:
+### 📈 Stats:
 
 <div>
   <a href="https://github.com/EwerllonCBN/github-readme-stats">
