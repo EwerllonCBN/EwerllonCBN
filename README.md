@@ -63,9 +63,17 @@ De Engenharia de Processos e Automação Industrial para o universo de Desenvolv
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
 </div>
+
+<div align="center">
+  <a href="https://github.com/EwerllonCBN/readme-streak-stats">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EwerllonCBN&theme=github-dark&currStreakLabel=3A7223&sideLabels=3A7223&currStreakNum=9D6CFF&sideNums=9D6CFF&text_color=2b9540&locale=pt-br&fire=FF7A28" />
+  </a>
+</div>
+
     
-* * *
 ### 📈 Stats:
+
+* * *
 
 <div>
   <a href="https://github.com/EwerllonCBN/github-readme-stats">
@@ -74,14 +82,11 @@ De Engenharia de Processos e Automação Industrial para o universo de Desenvolv
   <a href="https://github.com/EwerllonCBN/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwerllonCBN&layout=compact&langs_count=8&theme=gotham&border_color=39d353&title_color=3A7223&text_color=39d353&locale=pt-br" />
   </a>
-  <a href="https://github.com/EwerllonCBN/readme-streak-stats">
-    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EwerllonCBN&theme=github-dark&currStreakLabel=3A7223&sideLabels=3A7223&currStreakNum=9D6CFF&sideNums=9D6CFF&text_color=2b9540&locale=pt-br&fire=FF7A28" />
-  </a>
 </div>
 
-* * *
-
 ### 📬 Como você pode me contactar? 
+
+* * * 
 
 <div align="center">
   <div>
